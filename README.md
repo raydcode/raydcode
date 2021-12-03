@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/raydcode1" target="blank"><img src="https://img.shields.io/twitter/follow/raydcode1?logo=twitter&style=for-the-badge" alt="raydcode1" /></a> </p>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🌱 I’m currently learning  how to code better <>.().{}.[]...</>
+- 🌱 I’m currently learning  how to code better </>.().{}.[]...</>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://twitter.com/raydcode1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raydcode1" height="30" width="40" /></a>
