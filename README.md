@@ -27,7 +27,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raydcode&" alt="raydcode" /></p>
 
-🎵: https://open.spotify.com/playlist/1IraNA4AcM3BruQrfU9qUX?si=5758588336a5495e
+
+<a href="https://open.spotify.com/playlist/1IraNA4AcM3BruQrfU9qUX?si=5758588336a5495e" target="_blank">🎵</a>
+ 
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
