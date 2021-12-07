@@ -27,6 +27,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raydcode&" alt="raydcode" /></p>
 
+<iframe src="https://open.spotify.com/embed/playlist/1IraNA4AcM3BruQrfU9qUX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
