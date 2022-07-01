@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm rayDcode</h1>
 
+<a href="https://app.daily.dev/raydcode"><img src="https://api.daily.dev/devcards/9daae38639a24cbeb1cbd11eb71448a2.png?r=qpb" width="400" alt="Kathir karthik's Dev Card"/></a>
 
 <h3 align="center">| Computer Enthusiasts ?. Keep Learning.... Full-stack developer </> Believe in yourself 💛 |</h3>
 
