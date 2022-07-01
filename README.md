@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm rayDcode</h1>
 
-<a href="https://app.daily.dev/raydcode"><img src="https://api.daily.dev/devcards/9daae38639a24cbeb1cbd11eb71448a2.png?r=qpb" width="400" alt="Kathir karthik's Dev Card"/></a>
+
 
 <h3 align="center">| Computer Enthusiasts ?. Keep Learning.... Full-stack developer </> Believe in yourself 💛 |</h3>
 
@@ -28,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raydcode&show_icons=true&locale=en" alt="raydcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raydcode&" alt="raydcode" /></p>
+<a href="https://app.daily.dev/raydcode"><img src="https://api.daily.dev/devcards/9daae38639a24cbeb1cbd11eb71448a2.png?r=qpb" width="400" alt="Kathir karthik's Dev Card"/></a>
 
 
 <a href="https://open.spotify.com/playlist/1IraNA4AcM3BruQrfU9qUX?si=5758588336a5495e" target="_blank">Click here to listen🎵</a>
